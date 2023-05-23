@@ -7,7 +7,7 @@
 
 Tinder, the magical app that turns swiping left or right into a modern-day game of love roulette. Known as one of the most popular social media apps in the world, it offers a great way to meet new people, make friends, find the perfect partner for one night or, if you're lucky, for a lifetime. With its powerful algorithms and swipe-based interface, Tinder makes it easy for people to connect with potential matches and explore romantic possibilities. Sounds promising, right? But does it live up to its hype? Do people truly love this app?
 
-<img src="images/tinder1.png?raw=true" /><img src="images/tinder2.png?raw=true" />
+<img src="images/Tinder1.png?raw=true" /><img src="images/Tinder2.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
