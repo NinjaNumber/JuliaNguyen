@@ -16,10 +16,9 @@ Tinder, the magical app that turns swiping left or right into a modern-day game 
 ### Tracking US University & College Evolution, using [CCIIHE data]([url](https://carnegieclassifications.acenet.edu/))
 Starting in 1973 the Carnegie Classification of Institutions of Higher Education (CCIHE) grouped universities and colleges in the United States into categories and subcategories based on the types of degrees awarded by the institutions. Since its initial release in 1973, the Classifications have been updated 10 times, most recently in 2021, to reflect changes among colleges and universities. This projects aims to gain insights into how the classifications have evolved throughout these 10 updates, along with changes in institutional status. 
 
-<div style="text-align: center;">
 <img src="images/Sankey1.png?raw=true" />
-</div>
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
 
 ---
 
