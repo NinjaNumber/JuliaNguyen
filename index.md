@@ -2,13 +2,12 @@
 
 ---
 
-### Deep NLP for hate speech detection
+### Tinder: Is everyone loving it but me?
+## A study of Topic Modeling and Sentiment Analysis of Tinder reviews
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+Tinder, the magical app that turns swiping left or right into a modern-day game of love roulette. Known as one of the most popular social media apps in the world, it offers a great way to meet new people, make friends, find the perfect partner for one night or, if you're lucky, for a lifetime. With its powerful algorithms and swipe-based interface, Tinder makes it easy for people to connect with potential matches and explore romantic possibilities. Sounds promising, right? But does it live up to its hype? Do people truly love this app?
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 ---
 
