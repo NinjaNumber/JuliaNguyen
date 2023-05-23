@@ -11,9 +11,9 @@ Tinder, the magical app that turns swiping left or right into a modern-day game 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
----
 ## Visual Analytic Projects
-<hr/>
+
+---
 
 ### Tracking US University & College Evolution, using [CCIIHE data](https://carnegieclassifications.acenet.edu/)
 Starting in 1973 the Carnegie Classification of Institutions of Higher Education (CCIHE) grouped universities and colleges in the United States into categories and subcategories based on the types of degrees awarded by the institutions. Since its initial release in 1973, the Classifications have been updated 10 times, most recently in 2021, to reflect changes among colleges and universities. This projects aims to gain insights into how the classifications have evolved throughout these 10 updates, along with changes in institutional status. 
@@ -29,11 +29,13 @@ This project focuses on tracking and monitoring natural disasters since 1960 thr
 <div class='tableauPlaceholder' id='viz1684867688616' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;NaturalDisaster_16812284359740&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NaturalDisaster_16812284359740&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;NaturalDisaster_16812284359740&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
 ---
+
 ### Retail Sales Executive Summary
 The retail sales dashboard provides a comprehensive overview of sales performance for a packaging good company, enabling data-driven decision making to drive growth and optimize business strategies. 
 <div class='tableauPlaceholder' id='viz1684867953122' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetailSalesDashboard-Inspired&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RetailSalesDashboard-Inspired&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetailSalesDashboard-Inspired&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 
 ---
+
 ### Retail Sales Executive Summary
 The dashboard compares the sales of Tesla Model S and Model X electric vehicles across Germany, Australia and the US in 2016 & 2017. By presenting the sales data in an intuitive and visually engaging manner, this visualization allows for a quick and insightful analysis of the market performance of these Tesla models in different countries during the specified time period.
 <div class='tableauPlaceholder' id='viz1684868249521' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment6_16812312299640&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment6_16812312299640&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment6_16812312299640&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
