@@ -1,4 +1,4 @@
-## Grad projects in data science, machine learning and NLP
+## My projects in data science, machine learning and NLP
 
 ---
 
@@ -10,16 +10,16 @@ Tinder, the magical app that turns swiping left or right into a modern-day game 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
-## Visual Analytic Projects
-
----
-
 ### Tracking US University & College Evolution, using [CCIIHE data](https://carnegieclassifications.acenet.edu/)
 Starting in 1973 the Carnegie Classification of Institutions of Higher Education (CCIHE) grouped universities and colleges in the United States into categories and subcategories based on the types of degrees awarded by the institutions. Since its initial release in 1973, the Classifications have been updated 10 times, most recently in 2021, to reflect changes among colleges and universities. This projects aims to gain insights into how the classifications have evolved throughout these 10 updates, along with changes in institutional status. 
 
 <img src="images/Sankey1.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
+
+## Visual Analytic Projects
+
+---
 
 ### The Rising Wave of Natural Disasters
 This project focuses on tracking and monitoring natural disasters since 1960 through 2018, using data from various sources to identify patterns and measurement of historical disaster preparedness and response. 
