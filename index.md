@@ -1,7 +1,6 @@
 ## Grad projects in data science, machine learning and NLP
 
-## Tinder: Is everyone loving it but me? 
-### A study of Topic Modeling and Sentiment Analysis of Tinder reviews
+### Tinder: A study of Topic Modeling and Sentiment Analysis of Tinder reviews
 
 Tinder, the magical app that turns swiping left or right into a modern-day game of love roulette. Known as one of the most popular social media apps in the world, it offers a great way to meet new people, make friends, find the perfect partner for one night or, if you're lucky, for a lifetime. With its powerful algorithms and swipe-based interface, Tinder makes it easy for people to connect with potential matches and explore romantic possibilities. Sounds promising, right? But does it live up to its hype? Do people truly love this app?
 
