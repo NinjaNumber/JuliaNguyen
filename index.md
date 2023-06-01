@@ -44,6 +44,7 @@ A selection of smaller projects demonstrating specific data science and ML skill
 
 - Develop a web-base app that predicts the probability of approval for an immigrant visa application.
 - Twitter and Reddit scrapping to examine public opinion on TikTok ban
+- [Dissatisfied Customer Detection using XGBoost classification model](https://github.com/jhnguyen168/Dissatisfied-Customer-Detection)
 - Movie recommendation model
 - Home price prediction model 
 
