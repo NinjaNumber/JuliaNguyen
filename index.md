@@ -46,7 +46,7 @@ A selection of smaller projects demonstrating specific data science and ML skill
 - [Reddit Scrapping and Sentiment Analysis using VADER to examine public opinion on TikTok ban](https://github.com/NinjaNumber/TikTok_Ban)
 - [Dissatisfied Customer Detection using XGBoost classification model](https://github.com/jhnguyen168/Dissatisfied-Customer-Detection)
 - Exploratory Data Analysis: [Consumer Complaints HY 2023](https://github.com/NinjaNumber/Consumer_Complaints_HY2023), [Forbes Billionaires 2022](https://github.com/NinjaNumber/Forbes_2022_billionaires)
-- Movie recommendation model
+- [Book recommendation model](https://github.com/NinjaNumber/Book_Recommendation)
 - Home price prediction model 
 
 
