@@ -43,7 +43,7 @@ The dashboard compares the sales of Tesla Model S and Model X electric vehicles 
 A selection of smaller projects demonstrating specific data science and ML skills.
 
 - Develop a web-base app that predicts the probability of approval for an immigrant visa application.
-- [Reddit scrapping to examine public opinion on TikTok ban](https://github.com/NinjaNumber/TikTok_Ban)
+- [Reddit Scrapping and Sentiment Analysis using VADER to examine public opinion on TikTok ban](https://github.com/NinjaNumber/TikTok_Ban)
 - [Dissatisfied Customer Detection using XGBoost classification model](https://github.com/jhnguyen168/Dissatisfied-Customer-Detection)
 - Exploratory Data Analysis: [Consumer Complaints HY 2023](https://github.com/NinjaNumber/Consumer_Complaints_HY2023), [Forbes Billionaires 2022](https://github.com/NinjaNumber/Forbes_2022_billionaires)
 - Movie recommendation model
