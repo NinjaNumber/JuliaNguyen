@@ -6,6 +6,9 @@
 _A school project of building an interactive database application web-app_
 
 This project aims to develop a collaborative community-based database using sql and streammlit, which stores and displays all hiking trails across the United States for hikers, bikers, mountaineers and outdoor enthusiasts...
+
+[Link to app](https://routeranger.streamlit.app/)
+
 <img src="images/RouteRanger.JPG?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#)
