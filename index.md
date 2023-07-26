@@ -3,7 +3,7 @@
 ---
 
 ### RouteRanger - A Trail Finder App
-_A school project of building an interactive database application web-app_
+_A school project of building an interactive database application_
 
 This project aims to develop a collaborative community-based database using sql and streammlit, which stores and displays all hiking trails across the United States for hikers, bikers, mountaineers and outdoor enthusiasts...
 
