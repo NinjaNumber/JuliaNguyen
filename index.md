@@ -2,6 +2,13 @@
 
 ---
 
+### RouteRanger - A Trail Finder App
+_A school project of building an interactive database application web-app_
+
+This project aims to develop a collaborative community-based database using sql and streammlit, which stores and displays all hiking trails across the United States for hikers, bikers, mountaineers and outdoor enthusiasts...
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#)
+
 ### Tinder: A study of Topic Modeling and Sentiment Analysis of Tinder reviews
 
 Tinder, the magical app that turns swiping left or right into a modern-day game of love roulette. Known as one of the most popular social media apps in the world, it offers a great way to meet new people, make friends, find the perfect partner for one night or, if you're lucky, for a lifetime. With its powerful algorithms and swipe-based interface, Tinder makes it easy for people to connect with potential matches and explore romantic possibilities. Sounds promising, right? But does it live up to its hype? Do people truly love this app?
