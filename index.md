@@ -31,6 +31,8 @@ Starting in 1973 the Carnegie Classification of Institutions of Higher Education
 ### Predicting Delivery Time on DoorDash
 This project handles the task of predicting the total delivery duration for orders placed on DoorDash by applying 6 different regression algorithms on 4 different feature sets with 3 different scalers.
 
+<img src="images/doordash.jpg?raw=true" />
+
 [see notebook](https://github.com/NinjaNumber/DoorDash_Delivery)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
