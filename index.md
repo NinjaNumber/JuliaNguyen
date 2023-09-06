@@ -9,7 +9,7 @@ This project aims to develop a collaborative community-based database using sql 
 
 [Link to app](https://routeranger.streamlit.app/)
 
-<img src="images/RouteRanger.JPG?raw=true" />
+<img src="images/RouteRanger2.JPG?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#)
 
